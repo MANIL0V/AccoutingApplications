@@ -1,0 +1,154 @@
+﻿<Page x:Class="AccountingOfGoods.Pages.ProductInStockPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AccountingOfGoods.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="1000"
+      Title="ProductInStockPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Ведомость по товарам на складе:"
+                   FontSize="22"
+                   HorizontalAlignment="Left"
+                   Margin="50 10 0 0"
+                   FontWeight="Bold"/>
+
+        <Border Grid.Row="1"
+                Margin="10 0"
+                Background="#FFF8F8F8">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" 
+                           Text="Период от:"
+                           TextWrapping="Wrap"
+                           FontSize="20"
+                           HorizontalAlignment="Right"
+                           VerticalAlignment="Center"
+                           Margin="0 0 20 0"/>
+
+                <DatePicker Name="dpStartDate" 
+                            Grid.Row="1" 
+                            Grid.Column="1"
+                            BorderBrush="Black"
+                            BorderThickness="1"                 
+                            Height="35"
+                            Margin="50 0 30 0"
+                            VerticalAlignment="Center"
+                            VerticalContentAlignment="Center"
+                            HorizontalContentAlignment="Center"
+                            FontSize="20"
+                            Foreground="Brown"/>
+
+                <TextBlock Grid.Column="2" 
+                           Text="до:"
+                           TextWrapping="Wrap"
+                           FontSize="20"
+                           Margin="0 0 20 0"
+                           HorizontalAlignment="Right"
+                           VerticalAlignment="Center"/>
+
+                <DatePicker x:Name="dpEndtDate" 
+                            Grid.Row="1" 
+                            Grid.Column="3"
+                            BorderBrush="Black"
+                            BorderThickness="1"                 
+                            Height="35"
+                            Margin="50 0 30 0"
+                            VerticalAlignment="Center"
+                            VerticalContentAlignment="Center"
+                            HorizontalContentAlignment="Center"
+                            FontSize="20"
+                            Foreground="Brown"/>
+
+                <Button x:Name="btnGenerateReport" 
+                        Grid.Column="4" 
+                        Content="Сформировать" 
+                        BorderThickness="1"
+                        Height="40"
+                        Margin="20 0"                    
+                        VerticalContentAlignment="Center"
+                        Background="#2F3485"
+                        Foreground="White"
+                        FontSize="18"
+                        Click="btnGenerateReport_Click">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="10"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="2" Background="#FFF8F8F8">
+            <ListView x:Name="lvProductInStock" Margin="10" Background="{x:Null}" HorizontalAlignment="Center">
+                <ListView.View>
+                    <GridView>
+                        <GridView.ColumnHeaderContainerStyle>
+                            <Style TargetType="GridViewColumnHeader">
+                                <Setter Property="IsHitTestVisible" Value="False" />
+                                <Setter Property="HorizontalContentAlignment" Value="Center" />
+                            </Style>
+                        </GridView.ColumnHeaderContainerStyle>
+                        <GridViewColumn Header="Артикул" Width="100" DisplayMemberBinding="{Binding IDProduct}" />
+                        <GridViewColumn Header="Название" Width="200" DisplayMemberBinding="{Binding Product.NameProduct}"/>
+                        <GridViewColumn Header="Ед.изм" Width="100" DisplayMemberBinding="{Binding Product.Unit.NameUnit}"/>
+                        <GridViewColumn Header="Начальный остаток" Width="148" DisplayMemberBinding="{Binding StartQuantity}"/>
+                        <GridViewColumn Header="Приход" Width="100" DisplayMemberBinding="{Binding InQuantity}"/>
+                        <GridViewColumn Header="Расход" Width="100" DisplayMemberBinding="{Binding OutQuantity}"/>
+                        <GridViewColumn Header="Конечный остаток" Width="150" DisplayMemberBinding="{Binding Quantity}"/>
+                        <GridViewColumn Header="Дата" Width="85" DisplayMemberBinding="{Binding DateChange, StringFormat={}{0:dd.MM.yyyy}}"/>
+                        <GridViewColumn Header="Номер документа" Width="150" DisplayMemberBinding="{Binding NumberDoc}"/>
+                        <GridViewColumn Header="Статус" Width="150" DisplayMemberBinding="{Binding TypeChange.NameTypeChange}"/>
+                        <GridViewColumn Header="Примечание" Width="150" DisplayMemberBinding="{Binding Note}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Border>
+
+
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button
+                    x:Name="btnPrint" 
+                    Grid.Column="1" 
+                    BorderThickness="0"
+                    Margin="112,-20,10,94"                    
+                    VerticalContentAlignment="Center"
+                    Background="Transparent"
+                    FontSize="18"
+                    Click="btnPrint_Click">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+                <Button.Content>
+                    <Image Source="/AccountingOfGoods;component/Resourses/print.ico" Width="56" Height="52"/>
+                </Button.Content>
+            </Button>
+            
+        </Grid>
+    </Grid>
+</Page>

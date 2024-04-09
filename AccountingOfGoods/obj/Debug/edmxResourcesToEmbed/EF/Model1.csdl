@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProductInStockModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+    <EntitySet Name="CategoryProduct" EntityType="ProductInStockModel.CategoryProduct" />
+    <EntitySet Name="ChangeQuantityProduct" EntityType="ProductInStockModel.ChangeQuantityProduct" />
+    <EntitySet Name="Product" EntityType="ProductInStockModel.Product" />
+    <EntitySet Name="Storage" EntityType="ProductInStockModel.Storage" />
+    <EntitySet Name="sysdiagrams" EntityType="ProductInStockModel.sysdiagrams" />
+    <EntitySet Name="TypeChange" EntityType="ProductInStockModel.TypeChange" />
+    <EntitySet Name="Unit" EntityType="ProductInStockModel.Unit" />
+    <EntitySet Name="User" EntityType="ProductInStockModel.User" />
+    <AssociationSet Name="FK_Product_CategoryProduct" Association="ProductInStockModel.FK_Product_CategoryProduct">
+      <End Role="CategoryProduct" EntitySet="CategoryProduct" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ChangeQuantityProduct_Product" Association="ProductInStockModel.FK_ChangeQuantityProduct_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="ChangeQuantityProduct" EntitySet="ChangeQuantityProduct" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ChangeQuantityProduct_TypeChange" Association="ProductInStockModel.FK_ChangeQuantityProduct_TypeChange">
+      <End Role="TypeChange" EntitySet="TypeChange" />
+      <End Role="ChangeQuantityProduct" EntitySet="ChangeQuantityProduct" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_Storage" Association="ProductInStockModel.FK_Product_Storage">
+      <End Role="Storage" EntitySet="Storage" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_Unit" Association="ProductInStockModel.FK_Product_Unit">
+      <End Role="Unit" EntitySet="Unit" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <EntitySet Name="Role" EntityType="ProductInStockModel.Role" />
+    <AssociationSet Name="FK_User_Role" Association="ProductInStockModel.FK_User_Role">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram1">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram1">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram1">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition1" ReturnType="Collection(ProductInStockModel.sp_helpdiagramdefinition1_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams1" ReturnType="Collection(ProductInStockModel.sp_helpdiagrams1_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram1">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams1" />
+  </EntityContainer>
+  <EntityType Name="CategoryProduct">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameCategory" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Product" Relationship="ProductInStockModel.FK_Product_CategoryProduct" FromRole="CategoryProduct" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="ChangeQuantityProduct">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDProduct" Type="Int32" Nullable="false" />
+    <Property Name="IDTypeChange" Type="Int32" Nullable="false" />
+    <Property Name="NumberDoc" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Quantity" Type="Double" Nullable="false" />
+    <Property Name="DateChange" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="StartQuantity" Type="Double" Nullable="false" />
+    <Property Name="InQuantity" Type="Double" Nullable="false" />
+    <Property Name="OutQuantity" Type="Double" Nullable="false" />
+    <Property Name="Note" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Product" Relationship="ProductInStockModel.FK_ChangeQuantityProduct_Product" FromRole="ChangeQuantityProduct" ToRole="Product" />
+    <NavigationProperty Name="TypeChange" Relationship="ProductInStockModel.FK_ChangeQuantityProduct_TypeChange" FromRole="ChangeQuantityProduct" ToRole="TypeChange" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameProduct" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="IDCategory" Type="Int32" Nullable="false" />
+    <Property Name="InStock" Type="Double" />
+    <Property Name="IDUnit" Type="Int32" Nullable="false" />
+    <Property Name="IDStorage" Type="Int32" />
+    <Property Name="Description" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="CategoryProduct" Relationship="ProductInStockModel.FK_Product_CategoryProduct" FromRole="Product" ToRole="CategoryProduct" />
+    <NavigationProperty Name="ChangeQuantityProduct" Relationship="ProductInStockModel.FK_ChangeQuantityProduct_Product" FromRole="Product" ToRole="ChangeQuantityProduct" />
+    <NavigationProperty Name="Storage" Relationship="ProductInStockModel.FK_Product_Storage" FromRole="Product" ToRole="Storage" />
+    <NavigationProperty Name="Unit" Relationship="ProductInStockModel.FK_Product_Unit" FromRole="Product" ToRole="Unit" />
+  </EntityType>
+  <EntityType Name="Storage">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NumberStorage" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Product" Relationship="ProductInStockModel.FK_Product_Storage" FromRole="Storage" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TypeChange">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameTypeChange" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ChangeQuantityProduct" Relationship="ProductInStockModel.FK_ChangeQuantityProduct_TypeChange" FromRole="TypeChange" ToRole="ChangeQuantityProduct" />
+  </EntityType>
+  <EntityType Name="Unit">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameUnit" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Product" Relationship="ProductInStockModel.FK_Product_Unit" FromRole="Unit" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Login" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IDRole" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Role" Relationship="ProductInStockModel.FK_User_Role" FromRole="User" ToRole="Role" />
+  </EntityType>
+  <Association Name="FK_Product_CategoryProduct">
+    <End Type="ProductInStockModel.CategoryProduct" Role="CategoryProduct" Multiplicity="1" />
+    <End Type="ProductInStockModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategoryProduct">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="IDCategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ChangeQuantityProduct_Product">
+    <End Type="ProductInStockModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="ProductInStockModel.ChangeQuantityProduct" Role="ChangeQuantityProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ChangeQuantityProduct">
+        <PropertyRef Name="IDProduct" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ChangeQuantityProduct_TypeChange">
+    <End Type="ProductInStockModel.TypeChange" Role="TypeChange" Multiplicity="1" />
+    <End Type="ProductInStockModel.ChangeQuantityProduct" Role="ChangeQuantityProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TypeChange">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ChangeQuantityProduct">
+        <PropertyRef Name="IDTypeChange" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_Storage">
+    <End Type="ProductInStockModel.Storage" Role="Storage" Multiplicity="0..1" />
+    <End Type="ProductInStockModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Storage">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="IDStorage" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_Unit">
+    <End Type="ProductInStockModel.Unit" Role="Unit" Multiplicity="1" />
+    <End Type="ProductInStockModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Unit">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="IDUnit" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name_role" Type="String" Nullable="false" MaxLength="40" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="User" Relationship="ProductInStockModel.FK_User_Role" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <Association Name="FK_User_Role">
+    <End Type="ProductInStockModel.Role" Role="Role" Multiplicity="1" />
+    <End Type="ProductInStockModel.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="IDRole" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="sp_helpdiagramdefinition1_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams1_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,300 @@
+﻿<Page x:Class="AccountingOfGoods.Pages.AddtrafficProductPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AccountingOfGoods.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="1000"
+      Title="AddtrafficProductPage">
+
+    <Grid>
+
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+
+
+        <TextBlock Grid.ColumnSpan="3" Text="Добавить движение товара:"
+                   FontSize="22"
+                   HorizontalAlignment="Left"
+                   Margin="50 10 0 0"
+                   FontWeight="Bold"/>
+        <Border Grid.Row="1" 
+                Grid.Column="0"
+                Grid.ColumnSpan="4"
+                Grid.RowSpan="3"/>
+
+        <TextBlock Grid.Row="1" 
+                   Grid.Column="0" 
+                   Text="Артикул товара:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="0 0 20 0"/>
+
+        <TextBox x:Name="txtIDProduct" 
+                 Grid.Row="1" 
+                 Grid.Column="1"
+                 Margin="40,0,40,0"
+                 Padding="5 0 0 0"
+                 IsReadOnly="True"                 
+                 Style="{StaticResource TextBoxStyle1}"/>
+
+        <TextBlock Grid.Row="1" 
+                   Grid.Column="2"
+                   Text="№ секции хранения:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="39,0,0,0"/>
+
+        <TextBox x:Name="txtStorage" 
+                 Grid.Row="1" 
+                 Grid.Column="3"                
+                 Padding="5 0 0 0"                              
+                 IsReadOnly="True"
+                 Style="{StaticResource TextBoxStyle1}" Margin="29,0,51,0"/>
+
+        <TextBlock Grid.Row="2" 
+                   Grid.Column="0" 
+                   Text="Название выбранного товара:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="0 0 20 0"/>
+
+        <TextBox x:Name="txtNameProduct" 
+                 Grid.Row="2" 
+                 Grid.Column="1"
+                 Grid.ColumnSpan="3"            
+                                 
+                 IsReadOnly="True"
+                 Style="{StaticResource TextBoxStyle1}" Margin="40,0,51,0"/>
+
+        <TextBlock Grid.Row="3" 
+                   Grid.Column="0" 
+                   Text="Остаток на складе:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="0 0 20 0"/>
+
+        <TextBox x:Name="txtInStock" 
+                 Grid.Row="3" 
+                 Grid.Column="1"                 
+                 IsReadOnly="True"
+                 Style="{StaticResource TextBoxStyle1}" Margin="40,0,40,0"/>
+
+        <TextBlock Grid.Row="3" 
+                   Grid.Column="2" 
+                   Text="Единица измерения:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Center"
+                   Margin="20,0,0,0"/>
+
+        <TextBox x:Name="txtUnit" 
+                 Grid.Row="3" 
+                 Grid.Column="3"                
+                 IsReadOnly="True"
+                 Style="{StaticResource TextBoxStyle1}" Margin="29,0,51,0"/>
+
+        <TextBlock Grid.Row="4" 
+                   Grid.Column="0" 
+                   Text="Статус:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="0 0 20 0"/>
+
+
+        <ComboBox
+                  x:Name="cmbAction" 
+                  Grid.Row="4"
+                  Grid.Column="1" 
+                  Style="{StaticResource ComboBoxStyle1}"
+                  IsEditable="True" SelectionChanged="cmbAction_SelectionChanged" Margin="40,0,40,0">
+
+            <ComboBox.BorderBrush>
+                <SolidColorBrush Color="#2F3485"/>
+            </ComboBox.BorderBrush>
+            <ComboBox.BorderThickness>
+                <Thickness>1</Thickness>
+            </ComboBox.BorderThickness>
+
+        </ComboBox>
+
+        <TextBlock Grid.Row="4" 
+                   Grid.Column="2" 
+                   Text="№ секции хранения:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Center"
+                   Margin="19,0,0,0"/>
+
+        <ComboBox x:Name="cmbStorageOut" 
+          Grid.Row="4" 
+          Grid.Column="3"
+          Height="35"                
+          IsEditable="True"
+          Style="{StaticResource ComboBoxStyle1}"
+          SelectionChanged="cmbStorageOut_SelectionChanged" Margin="29,0,52,0">
+
+            <!-- Обводка для ComboBox -->
+            <ComboBox.BorderBrush>
+                <SolidColorBrush Color="#2F3485"/>
+            </ComboBox.BorderBrush>
+            <ComboBox.BorderThickness>
+                <Thickness>1</Thickness>
+            </ComboBox.BorderThickness>
+
+        </ComboBox>
+
+
+        <TextBlock Grid.Row="5" 
+                   Grid.Column="0" 
+                   Text="№ документа:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="0 0 20 0"/>
+
+        <TextBox x:Name="txtNumberDoc" 
+                 Grid.Row="5" 
+                 Grid.Column="1"
+                 GotFocus="txtNumberDoc_GotFocus"
+                 Style="{StaticResource TextBoxStyle1}" Margin="40,0,40,0"/>
+
+        <TextBlock Grid.Row="5" 
+                   Grid.Column="2" 
+                   Text="Дата:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Center"
+                   Margin="161,0,0,0"/>
+
+        <DatePicker x:Name="dpDateAction" 
+                    Grid.Row="5" 
+                 Grid.Column="3"
+                 BorderBrush="Black"
+                 BorderThickness="1"                 
+                 Height="35"
+                 Margin="33,0,47,0"
+                    Padding="5 0 0 0"
+                 VerticalAlignment="Center"
+                 VerticalContentAlignment="Center"
+                 HorizontalContentAlignment="Left"
+                 FontSize="15"
+                 Foreground="#2F3485"/>
+
+        <TextBlock Grid.Row="6" 
+                   Grid.Column="0" 
+                   Text="Количество товара:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="0 0 20 0"/>
+
+        <TextBox x:Name="txtCountProduct" 
+                 Grid.Row="6" 
+                 Grid.Column="1"
+                 TextChanged="txtCountProduct_TextChanged"
+                 GotFocus="txtCountProduct_GotFocus"
+                 Style="{StaticResource TextBoxStyle1}" Margin="40,0,40,0"/>
+
+        <TextBlock Grid.Row="6" 
+                   Grid.Column="2" 
+                   Text="Текущий остаток на складе:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Center"
+                   Margin="26,0,0,0"/>
+
+        <TextBox x:Name="txtInStockNow" 
+                 Grid.Row="6" 
+                 Grid.Column="3"
+                 IsReadOnly="False"
+                 Style="{StaticResource TextBoxStyle1}" Margin="33,0,47,0"/>
+
+        <TextBlock Grid.Row="7" 
+                   Grid.Column="0" 
+                   Text="Примечание:"
+                   TextWrapping="Wrap"
+                   FontSize="20"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="0 0 20 0"/>
+
+        <TextBox x:Name="txtNote" 
+                 Grid.Row="7" 
+                 Grid.Column="1" 
+                 Grid.ColumnSpan="3"
+                 Grid.RowSpan="3"                 
+                 Height="130"                 
+                 AcceptsReturn="True"
+                 Style="{StaticResource TextBoxStyle1}"/>
+
+        <Button x:Name="btnDeleteSection1"
+    FontSize="25"
+    Width="30"
+    Height="35"
+    Margin="234,10,22,9"
+    BorderThickness="0"
+    Background="Transparent" Click="btnDeleteSection1_Click" Grid.Column="3" Grid.Row="4">
+            <Button.Content>
+                <Image Source="/AccountingOfGoods;component/Resourses/delete.png"/>
+            </Button.Content>
+        </Button>
+
+        <Button
+                Grid.Row="10" 
+                Grid.Column="4" 
+                x:Name="btnAddProduct" 
+                Content="Сохранить" 
+                BorderThickness="1"
+                Margin="20 10"                    
+                VerticalContentAlignment="Center"
+                Background="#2F3485"
+                Foreground="White"
+                FontSize="18"
+                Click="btnAddProduct_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Page>

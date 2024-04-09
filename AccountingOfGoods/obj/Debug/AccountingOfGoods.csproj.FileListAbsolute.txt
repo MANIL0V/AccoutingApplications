@@ -1,0 +1,342 @@
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe.config
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\EntityFramework.dll
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.AssemblyReference.cache
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\AddProductPage.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\ProductListPage.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\SupportPage.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Window1.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\App.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods_Content.g.cs
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.cache
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.lref
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\App.baml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\AddProductPage.baml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.baml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.baml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\ProductListPage.baml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\SupportPage.baml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Window1.baml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.baml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.baml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.baml
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.g.resources
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.Properties.Resources.resources
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.GenerateResource.cache
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CopyComplete
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe.config
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\EntityFramework.dll
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.AssemblyReference.cache
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\AddProductPage.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\ProductListPage.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\SupportPage.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Window1.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\App.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods_Content.g.cs
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.cache
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.lref
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\App.baml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\AddProductPage.baml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.baml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.baml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\ProductListPage.baml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Pages\SupportPage.baml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Window1.baml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.baml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.baml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.baml
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.g.resources
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.Properties.Resources.resources
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.GenerateResource.cache
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CopyComplete
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\Курсовая работа\AccountingOfGoods-master\AccountingOfGoods\obj\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe.config
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\bin\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\bin\Debug\EntityFramework.dll
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.AssemblyReference.cache
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Pages\AddProductPage.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Pages\ProductListPage.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Pages\SupportPage.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Window1.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\App.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods_Content.g.cs
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.cache
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.lref
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\App.baml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Pages\AddProductPage.baml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.baml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.baml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Pages\ProductListPage.baml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Pages\SupportPage.baml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Window1.baml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.baml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.baml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.baml
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods.g.resources
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods.Properties.Resources.resources
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.GenerateResource.cache
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CopyComplete
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\Курсач\AccountingOfGoods\obj\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe.config
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\bin\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\bin\Debug\EntityFramework.dll
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.AssemblyReference.cache
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\AddProductPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\ProductListPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\SupportPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Window1.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\App.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods_Content.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.cache
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.lref
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\App.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\AddProductPage.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\ProductListPage.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\SupportPage.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Window1.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods.g.resources
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods.Properties.Resources.resources
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.GenerateResource.cache
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CopyComplete
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Windows\Administrator.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Windows\Administrator.baml
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\AdministratorPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом #2(Сделал отправку на почту)\AccountingOfGoods\obj\Debug\Pages\AdministratorPage.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe.config
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\bin\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\bin\Debug\EntityFramework.dll
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.AssemblyReference.cache
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\AddProductPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\AdministratorPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\ProductListPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\SupportPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Window1.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Windows\Administrator.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\App.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods_Content.g.cs
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.cache
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.lref
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\App.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\AddProductPage.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\AdministratorPage.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\ProductListPage.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Pages\SupportPage.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Window1.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Windows\Administrator.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.baml
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods.g.resources
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods.Properties.Resources.resources
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.GenerateResource.cache
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CopyComplete
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\Диплом(почта+админка + исправлена формула)\AccountingOfGoods\obj\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe.config
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\bin\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\bin\Debug\EntityFramework.dll
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.AssemblyReference.cache
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AddProductPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AdministratorPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\ProductListPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\SupportPage.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Window1.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\Administrator.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\App.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods_Content.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.cache
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.lref
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\App.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AddProductPage.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AdministratorPage.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\ProductListPage.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\SupportPage.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Window1.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\Administrator.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.baml
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.g.resources
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.Properties.Resources.resources
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.GenerateResource.cache
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CopyComplete
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\SalesSchedule.g.cs
+C:\Users\Yaroslav\Desktop\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\SalesSchedule.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.AssemblyReference.cache
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AddProductPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AdministratorPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\ProductListPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\SupportPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Window1.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\Administrator.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\App.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods_Content.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.cache
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.lref
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe.config
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\bin\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\bin\Debug\EntityFramework.dll
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\App.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AddProductPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\AdministratorPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\ProductListPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Pages\SupportPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Window1.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\Administrator.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.g.resources
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.Properties.Resources.resources
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.GenerateResource.cache
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 97%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CopyComplete
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe.config
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\bin\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\bin\Debug\AccountingOfGoods.pdb
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\bin\Debug\EntityFramework.dll
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\bin\Debug\EntityFramework.xml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.AssemblyReference.cache
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\AddProductPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\AdministratorPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\ProductListPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\SupportPage.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Window1.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Windows\Administrator.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\App.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods_Content.g.cs
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.cache
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods_MarkupCompile.lref
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\App.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\AddProductPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\AddtrafficProductPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\AdministratorPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\ProductInStockPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\ProductListPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Pages\SupportPage.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Window1.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Windows\Administrator.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Windows\AuthorizationWindow.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Windows\EmployeeWindow.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\Windows\SupportMessageWindow.baml
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods.g.resources
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods.Properties.Resources.resources
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.GenerateResource.cache
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods.csproj.CopyComplete
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods.exe
+C:\Users\Yaroslav\Documents\Диплом -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!\Диплом 99%\AccountingOfGoods\obj\Debug\AccountingOfGoods.pdb

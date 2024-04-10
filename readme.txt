@@ -1,4 +1,4 @@
-# Программа Управления Складом
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Программа+Управления+Складом)](https://git.io/typing-svg)
 
 ## Описание
 
